@@ -1,0 +1,16 @@
+C:\Users\eleah\source\repos\CSIntermediatePolymorphism\CSIntermediatePolymorphism\bin\Debug\net5.0\CSIntermediatePolymorphism.exe
+C:\Users\eleah\source\repos\CSIntermediatePolymorphism\CSIntermediatePolymorphism\bin\Debug\net5.0\CSIntermediatePolymorphism.deps.json
+C:\Users\eleah\source\repos\CSIntermediatePolymorphism\CSIntermediatePolymorphism\bin\Debug\net5.0\CSIntermediatePolymorphism.runtimeconfig.json
+C:\Users\eleah\source\repos\CSIntermediatePolymorphism\CSIntermediatePolymorphism\bin\Debug\net5.0\CSIntermediatePolymorphism.runtimeconfig.dev.json
+C:\Users\eleah\source\repos\CSIntermediatePolymorphism\CSIntermediatePolymorphism\bin\Debug\net5.0\CSIntermediatePolymorphism.dll
+C:\Users\eleah\source\repos\CSIntermediatePolymorphism\CSIntermediatePolymorphism\bin\Debug\net5.0\ref\CSIntermediatePolymorphism.dll
+C:\Users\eleah\source\repos\CSIntermediatePolymorphism\CSIntermediatePolymorphism\bin\Debug\net5.0\CSIntermediatePolymorphism.pdb
+C:\Users\eleah\source\repos\CSIntermediatePolymorphism\CSIntermediatePolymorphism\obj\Debug\net5.0\CSIntermediatePolymorphism.csprojAssemblyReference.cache
+C:\Users\eleah\source\repos\CSIntermediatePolymorphism\CSIntermediatePolymorphism\obj\Debug\net5.0\CSIntermediatePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eleah\source\repos\CSIntermediatePolymorphism\CSIntermediatePolymorphism\obj\Debug\net5.0\CSIntermediatePolymorphism.AssemblyInfoInputs.cache
+C:\Users\eleah\source\repos\CSIntermediatePolymorphism\CSIntermediatePolymorphism\obj\Debug\net5.0\CSIntermediatePolymorphism.AssemblyInfo.cs
+C:\Users\eleah\source\repos\CSIntermediatePolymorphism\CSIntermediatePolymorphism\obj\Debug\net5.0\CSIntermediatePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\eleah\source\repos\CSIntermediatePolymorphism\CSIntermediatePolymorphism\obj\Debug\net5.0\CSIntermediatePolymorphism.dll
+C:\Users\eleah\source\repos\CSIntermediatePolymorphism\CSIntermediatePolymorphism\obj\Debug\net5.0\ref\CSIntermediatePolymorphism.dll
+C:\Users\eleah\source\repos\CSIntermediatePolymorphism\CSIntermediatePolymorphism\obj\Debug\net5.0\CSIntermediatePolymorphism.pdb
+C:\Users\eleah\source\repos\CSIntermediatePolymorphism\CSIntermediatePolymorphism\obj\Debug\net5.0\CSIntermediatePolymorphism.genruntimeconfig.cache

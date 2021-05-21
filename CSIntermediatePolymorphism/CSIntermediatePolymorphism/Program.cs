@@ -1,18 +1,20 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 
 namespace CSIntermediatePolymorphism
 {
-    class Program
+    partial class Program
     {
         static void Main(string[] args)
         {
-            var shapes = new List<Shape>();
-            shapes.Add(new Circle());
-            shapes.Add(new Rectangle());
+            
 
-            var canvas = new Canvas();
-            canvas.Drawshapes(shapes);
+            var circle = new Circle();
+            circle.Draw();
+
+            var rectangle = new Rectangle();
+            rectangle.Draw();
         }
     }
 }
